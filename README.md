@@ -1,6 +1,6 @@
 # Data-Science
 
-## Programming | Ordered By hrs
+## Programming | Ordered By hrs ASC
 Courses | School | Duration
 :-- | :--: | :--:
 Learn SQL | Codecademy | 8/hrs
