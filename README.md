@@ -1,6 +1,6 @@
-# Data-Science
+# What I've Learned
 
-## Programming | Ordered By hrs ASC
+## Programming
 Courses | School | Duration
 :-- | :--: | :--:
 Learn SQL | Codecademy | 8/hrs
