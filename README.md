@@ -1,6 +1,6 @@
 # Data-Science
 
-## Programming | Order By hrs
+## Programming | Ordered By hrs
 Courses | School | Duration
 :-- | :--: | :--:
 Learn SQL | Codecademy | 8/hrs
