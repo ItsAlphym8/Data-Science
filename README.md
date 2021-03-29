@@ -10,5 +10,5 @@ Data Acquisition | Codecademy | 450/hrs
 Data Manipulation | Codecademy | 450/hrs
 
 ## Math
-Courses | School | Duration | Effort
-:-- | :--: | :--: | :--:
+Courses | School | Duration | Effort | Prerequisites
+:-- | :--: | :--: | :--: | :--:
