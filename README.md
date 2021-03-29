@@ -4,7 +4,7 @@
 Courses | School | Duration | Effort
 :-- | :--: | :--: | :--:
 Learn Python | Codecademy | 30/hrs | X
-
+Learn SQL | Codecademy | 8/hrs | X
 ## Math
 Courses | School | Duration | Effort
 :-- | :--: | :--: | :--:
